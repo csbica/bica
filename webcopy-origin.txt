@@ -1,0 +1,1988 @@
+Uri: https://cdn2.editmysite.com/css/old/fancybox.css?1725499275
+File Name: D:\csbica\csbica.weebly.com\css\old\fancybox.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/sites.css?buildTime=1725499275
+File Name: D:\csbica\csbica.weebly.com\css\sites.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/sites.css?buildTime=1725577801
+File Name: D:\csbica\csbica.weebly.com\css\sites-3.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/sites.css?buildTime=1725893944
+File Name: D:\csbica\csbica.weebly.com\css\sites-1.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/sites.css?buildTime=1726007823
+File Name: D:\csbica\csbica.weebly.com\css\sites-2.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/css/social-icons.css?buildtime=1725499275
+File Name: D:\csbica\csbica.weebly.com\css\social-icons.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Bebas/font.css?2
+File Name: D:\csbica\csbica.weebly.com\fonts\Bebas\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Bebas/regular.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Bebas\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Bebas/regular.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Bebas\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Bebas/regular.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Bebas\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bold.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bold.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bold.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bold.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bold.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bold.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bolditalic.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bolditalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bolditalic.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bolditalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bolditalic.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bolditalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bolditalic.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bolditalic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/bolditalic.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\bolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/font.css?2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/italic.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/italic.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/italic.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\italic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/italic.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\italic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/italic.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/light.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/light.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/light.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/light.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\light.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/light.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\light.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/lightitalic.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\lightitalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/lightitalic.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\lightitalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/lightitalic.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\lightitalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/lightitalic.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\lightitalic.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/lightitalic.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\lightitalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/regular.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/regular.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/regular.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/regular.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\regular.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Open_Sans/regular.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Open_Sans\regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Light\267447_4_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.eot?321123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Light\267447_4_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.ttf?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Light\267447_4_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Light/267447_4_0.woff?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Light\267447_4_0.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Semibold\267447_5_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.eot?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Semibold\267447_5_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.ttf?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Semibold\267447_5_0.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Proxima-Semibold/267447_5_0.woff?123597
+File Name: D:\csbica\csbica.weebly.com\fonts\Proxima-Semibold\267447_5_0.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/font.css?2
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/regular.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/regular.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/regular.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/regular.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\regular.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Questrial/regular.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Questrial\regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/bold.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/bold.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/bold.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/bold.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\bold.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/bold.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/font.css?2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\font.css
+Content Type: text/css
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/light.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/light.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/light.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/light.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\light.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/light.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\light.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/medium.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/medium.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/medium.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/medium.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\medium.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/medium.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\medium.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/regular.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/regular.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/regular.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/regular.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\regular.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/regular.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/semibold.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/semibold.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/semibold.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\semibold.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/semibold.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\semibold.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/semibold.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\semibold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/ultralight.eot
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\ultralight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/ultralight.eot?
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\ultralight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/ultralight.ttf
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\ultralight.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/ultralight.woff
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\ultralight.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/fonts/Raleway/ultralight.woff2
+File Name: D:\csbica\csbica.weebly.com\fonts\Raleway\ultralight.woff2
+Content Type: font/woff2
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.eot?cachebust=true
+File Name: D:\csbica\csbica.weebly.com\fonts\wSocial\wsocial.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.svg?cachebust=true
+File Name: D:\csbica\csbica.weebly.com\fonts\wSocial\wsocial.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.ttf?cachebust=true
+File Name: D:\csbica\csbica.weebly.com\fonts\wSocial\wsocial.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn2.editmysite.com/fonts/wSocial/wsocial.woff?cachebust=true
+File Name: D:\csbica\csbica.weebly.com\fonts\wSocial\wsocial.woff
+Content Type: font/woff
+
+Uri: https://cdn2.editmysite.com/images/blank.gif
+File Name: D:\csbica\csbica.weebly.com\images\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-button.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-button.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-field-bg.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-field-bg.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-header-author.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-header-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-header.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-header.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-link.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-link.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-pointer-author.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/blog-comment-pointer.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\blog-comment-pointer.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header-author.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\dark-blog-comment-header-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-header.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\dark-blog-comment-header.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-link.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\dark-blog-comment-link.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer-author.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\dark-blog-comment-pointer-author.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/blog/dark-blog-comment-pointer.png
+File Name: D:\csbica\csbica.weebly.com\images\common\blog\dark-blog-comment-pointer.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/large_blue.png
+File Name: D:\csbica\csbica.weebly.com\images\common\buttons\large_blue.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/small_blue.png
+File Name: D:\csbica\csbica.weebly.com\images\common\buttons\small_blue.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/buttons/small_grey.png
+File Name: D:\csbica\csbica.weebly.com\images\common\buttons\small_grey.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/checkmarks/@2x/checkmark-mini.png
+File Name: D:\csbica\csbica.weebly.com\images\common\checkmarks\@2x\checkmark-mini.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/checkmarks/checkmark-mini.png
+File Name: D:\csbica\csbica.weebly.com\images\common\checkmarks\checkmark-mini.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/form_input_bg.gif
+File Name: D:\csbica\csbica.weebly.com\images\common\form_input_bg.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/lightbox/nextlabel.gif
+File Name: D:\csbica\csbica.weebly.com\images\common\lightbox\nextlabel.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/lightbox/prevlabel.gif
+File Name: D:\csbica\csbica.weebly.com\images\common\lightbox\prevlabel.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/common/magnifying-glass.png
+File Name: D:\csbica\csbica.weebly.com\images\common\magnifying-glass.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/search-light.png
+File Name: D:\csbica\csbica.weebly.com\images\common\search-light.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/search-pagination-bg.png
+File Name: D:\csbica\csbica.weebly.com\images\common\search-pagination-bg.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/common/social_icons.png
+File Name: D:\csbica\csbica.weebly.com\images\common\social_icons.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/City-Shanghai.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\City-Shanghai.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/Couple-Beach.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\Couple-Beach.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/iPad.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\iPad.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/Kids-Reading.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\Kids-Reading.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/Lighthouse-Sunset.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\Lighthouse-Sunset.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/Playing-Pano.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\Playing-Pano.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/editor/theme-background/stock/Working2.jpg
+File Name: D:\csbica\csbica.weebly.com\images\editor\theme-background\stock\Working2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/loading.gif
+File Name: D:\csbica\csbica.weebly.com\images\loading.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/button/large_grey.png
+File Name: D:\csbica\csbica.weebly.com\images\old\button\large_grey.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/blank.gif
+File Name: D:\csbica\csbica.weebly.com\images\old\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_loading.gif
+File Name: D:\csbica\csbica.weebly.com\images\old\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_overlay.png
+File Name: D:\csbica\csbica.weebly.com\images\old\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/fancybox/fancybox_sprite.png
+File Name: D:\csbica\csbica.weebly.com\images\old\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/error.gif
+File Name: D:\csbica\csbica.weebly.com\images\old\photoswipe\error.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/icons.png
+File Name: D:\csbica\csbica.weebly.com\images\old\photoswipe\icons.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/icons@2x.png
+File Name: D:\csbica\csbica.weebly.com\images\old\photoswipe\icons@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/old/photoswipe/loader.gif
+File Name: D:\csbica\csbica.weebly.com\images\old\photoswipe\loader.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/@2x/credit-cards.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\@2x\credit-cards.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/@2x/paypal.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\@2x\paypal.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/credit-cards.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\credit-cards.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/paypal.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\paypal.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/print.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\print.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/site/checkout/print@2x.png
+File Name: D:\csbica\csbica.weebly.com\images\site\checkout\print@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/blank.gif
+File Name: D:\csbica\csbica.weebly.com\images\util\general\blank.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/util/general/bottom-triangle-000.png
+File Name: D:\csbica\csbica.weebly.com\images\util\general\bottom-triangle-000.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/bottom-triangle-000@2x.png
+File Name: D:\csbica\csbica.weebly.com\images\util\general\bottom-triangle-000@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/top-triangle-000.png
+File Name: D:\csbica\csbica.weebly.com\images\util\general\top-triangle-000.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/general/top-triangle-000@2x.png
+File Name: D:\csbica\csbica.weebly.com\images\util\general\top-triangle-000@2x.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/inputs/search-input-bg.jpg
+File Name: D:\csbica\csbica.weebly.com\images\util\inputs\search-input-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn2.editmysite.com/images/util/loading-white-w24.gif
+File Name: D:\csbica\csbica.weebly.com\images\util\loading-white-w24.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/util/spinner/spinner-dark.png
+File Name: D:\csbica\csbica.weebly.com\images\util\spinner\spinner-dark.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/spinner/spinner-light.png
+File Name: D:\csbica\csbica.weebly.com\images\util\spinner\spinner-light.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/blue-bar.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\blue-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/gradient.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\gradient.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/loading-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\loading-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/maximize-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\maximize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/minimize-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\minimize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/play-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\play-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/sad-face.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\sad-face.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/volume-filled.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\volume-filled.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/volume-mute.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\volume-mute.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/@2x/white-bar.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\@2x\white-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/blue-bar.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\blue-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/gradient.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\gradient.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/loading-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\loading-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/maximize-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\maximize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/minimize-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\minimize-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/play-icon.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\play-icon.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/sad-face.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\sad-face.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/volume-filled.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\volume-filled.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/volume-mute.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\volume-mute.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/util/videojs/white-bar.png
+File Name: D:\csbica\csbica.weebly.com\images\util\videojs\white-bar.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2-spinner.gif
+File Name: D:\csbica\csbica.weebly.com\images\vendor\select2\select2-spinner.gif
+Content Type: image/gif
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2.png
+File Name: D:\csbica\csbica.weebly.com\images\vendor\select2\select2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/images/vendor/select2/select2x2.png
+File Name: D:\csbica\csbica.weebly.com\images\vendor\select2\select2x2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/js/jquery-1.8.3.min.js
+File Name: D:\csbica\csbica.weebly.com\js\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/lang/zh_TW/stl.js?buildTime=1725499275&
+File Name: D:\csbica\csbica.weebly.com\js\lang\zh_TW\stl.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/lang/zh_TW/stl.js?buildTime=1725577801&
+File Name: D:\csbica\csbica.weebly.com\js\lang\zh_TW\stl-3.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/lang/zh_TW/stl.js?buildTime=1725893944&
+File Name: D:\csbica\csbica.weebly.com\js\lang\zh_TW\stl-1.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/lang/zh_TW/stl.js?buildTime=1726007823&
+File Name: D:\csbica\csbica.weebly.com\js\lang\zh_TW\stl-2.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1725499275
+File Name: D:\csbica\csbica.weebly.com\js\site\main-customer-accounts-site.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1725577801
+File Name: D:\csbica\csbica.weebly.com\js\site\main-customer-accounts-site-3.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1725893944
+File Name: D:\csbica\csbica.weebly.com\js\site\main-customer-accounts-site-1.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1726007823
+File Name: D:\csbica\csbica.weebly.com\js\site\main-customer-accounts-site-2.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main.js?buildTime=1725499275
+File Name: D:\csbica\csbica.weebly.com\js\site\main.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main.js?buildTime=1725577801
+File Name: D:\csbica\csbica.weebly.com\js\site\main-3.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main.js?buildTime=1725893944
+File Name: D:\csbica\csbica.weebly.com\js\site\main-1.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/js/site/main.js?buildTime=1726007823
+File Name: D:\csbica\csbica.weebly.com\js\site\main-2.js
+Content Type: application/javascript
+
+Uri: https://cdn2.editmysite.com/sprites/common/social-icons-s5ea5500bdb.png
+File Name: D:\csbica\csbica.weebly.com\sprites\common\social-icons-s5ea5500bdb.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/common/social-icons/@2x-s0ae7d70c70.png
+File Name: D:\csbica\csbica.weebly.com\sprites\common\social-icons\@2x-s0ae7d70c70.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/forms-s3786257308.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\forms-s3786257308.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/forms/@2x-s47607b315a.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\forms\@2x-s47607b315a.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mini-cart-s86c48effae.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\mini-cart-s86c48effae.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mini-cart/@2x-s576cbc3f90.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\mini-cart\@2x-s576cbc3f90.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mobile/commerce-sdf6d4e852c.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\mobile\commerce-sdf6d4e852c.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/site/mobile/commerce/@2x-s82f968c453.png
+File Name: D:\csbica\csbica.weebly.com\sprites\site\mobile\commerce\@2x-s82f968c453.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox-s7868418152.png
+File Name: D:\csbica\csbica.weebly.com\sprites\util\inputs\checkmarkBox-s7868418152.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/inputs/checkmarkBox/@2x-s211a47d318.png
+File Name: D:\csbica\csbica.weebly.com\sprites\util\inputs\checkmarkBox\@2x-s211a47d318.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/videojs-sacae758aa2.png
+File Name: D:\csbica\csbica.weebly.com\sprites\util\videojs-sacae758aa2.png
+Content Type: image/png
+
+Uri: https://cdn2.editmysite.com/sprites/util/videojs/@2x-s2aff7e7d9a.png
+File Name: D:\csbica\csbica.weebly.com\sprites\util\videojs\@2x-s2aff7e7d9a.png
+Content Type: image/png
+
+Uri: https://csbica-org.disqus.com/count.js
+File Name: D:\csbica\csbica.weebly.com\count.js
+Content Type: application/javascript
+
+Uri: https://csbica.weebly.com/
+File Name: D:\csbica\csbica.weebly.com\index.htm
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20132279692229022320
+File Name: D:\csbica\csbica.weebly.com\20132279692229022320.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20132279692229022320/-20180712
+File Name: D:\csbica\csbica.weebly.com\20132279692229022320\-20180712.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20132279692229022320/201888-9
+File Name: D:\csbica\csbica.weebly.com\20132279692229022320\201888-9.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20132279692229022320/2428548
+File Name: D:\csbica\csbica.weebly.com\20132279692229022320\2428548.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/201322796922290223201.html
+File Name: D:\csbica\csbica.weebly.com\201322796922290223201.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20172426438272222833855525237360393603126131279653552726371.html
+File Name: D:\csbica\csbica.weebly.com\20172426438272222833855525237360393603126131279653552726371.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2017299832521635542227273200023526-2.html
+File Name: D:\csbica\csbica.weebly.com\2017299832521635542227273200023526-2.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2017299832521635542227273200023526.html
+File Name: D:\csbica\csbica.weebly.com\2017299832521635542227273200023526.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20182426438272222833855525237360393603126131279653552726371.html
+File Name: D:\csbica\csbica.weebly.com\20182426438272222833855525237360393603126131279653552726371.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2019123002001322283278272133522283385552523736039360312613127965355272637112301.html
+File Name: D:\csbica\csbica.weebly.com\2019123002001322283278272133522283385552523736039360312613127965355272637112301.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/20192418024291240302614923395326542133826371.html
+File Name: D:\csbica\csbica.weebly.com\20192418024291240302614923395326542133826371.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2019299832521635542227273200023526---1.html
+File Name: D:\csbica\csbica.weebly.com\2019299832521635542227273200023526---1.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2019299832521635542227273200023526---2.html
+File Name: D:\csbica\csbica.weebly.com\2019299832521635542227273200023526---2.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/21152208372637121729.html
+File Name: D:\csbica\csbica.weebly.com\21152208372637121729.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/21332263713145631243.html
+File Name: D:\csbica\csbica.weebly.com\21332263713145631243.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/21332263713177720171.html
+File Name: D:\csbica\csbica.weebly.com\21332263713177720171.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/21451314493689932080.html
+File Name: D:\csbica\csbica.weebly.com\21451314493689932080.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/248473521127396.html
+File Name: D:\csbica\csbica.weebly.com\248473521127396.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/26368260322804024687.html
+File Name: D:\csbica\csbica.weebly.com\26368260322804024687.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/27861244592736531383.html
+File Name: D:\csbica\csbica.weebly.com\27861244592736531383.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/27963212052223839015.html
+File Name: D:\csbica\csbica.weebly.com\27963212052223839015.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/2970220107382633034035441.html
+File Name: D:\csbica\csbica.weebly.com\2970220107382633034035441.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/297023043520107332873901521839.html
+File Name: D:\csbica\csbica.weebly.com\297023043520107332873901521839.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/3153219977236222970220107382633034035441.html
+File Name: D:\csbica\csbica.weebly.com\3153219977236222970220107382633034035441.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/32879320972510520497.html
+File Name: D:\csbica\csbica.weebly.com\32879320972510520497.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/36681366172599131456.html
+File Name: D:\csbica\csbica.weebly.com\36681366172599131456.html
+Content Type: text/html
+
+Uri: https://csbica.weebly.com/files/main_style.css?1725507518
+File Name: D:\csbica\csbica.weebly.com\files\main_style.css
+Content Type: text/css
+
+Uri: https://csbica.weebly.com/files/templateArtifacts.js?1725507518
+File Name: D:\csbica\csbica.weebly.com\files\templateArtifacts.js
+Content Type: application/x-javascript
+
+Uri: https://csbica.weebly.com/files/theme/custom.js
+File Name: D:\csbica\csbica.weebly.com\files\theme\custom-1.js
+Content Type: application/javascript
+
+Uri: https://csbica.weebly.com/files/theme/custom.js?1530004403
+File Name: D:\csbica\csbica.weebly.com\files\theme\custom.js
+Content Type: application/javascript
+
+Uri: https://csbica.weebly.com/files/theme/images/default-bg.jpg?1725507518
+File Name: D:\csbica\csbica.weebly.com\files\theme\images\default-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/files/theme/images/select-dropdown.png?1725507518
+File Name: D:\csbica\csbica.weebly.com\files\theme\images\select-dropdown.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/files/theme/plugins.js
+File Name: D:\csbica\csbica.weebly.com\files\theme\plugins-1.js
+Content Type: application/javascript
+
+Uri: https://csbica.weebly.com/files/theme/plugins.js?1530004403
+File Name: D:\csbica\csbica.weebly.com\files\theme\plugins.js
+Content Type: application/javascript
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/⼀致性審查加速⽣醫上市櫃_6.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\⼀致性審查加速⽣醫上市櫃_6.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/⽣技中⼼發展核酸藥物技術.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\⽣技中⼼發展核酸藥物技術.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/【2019諾貝爾獎】破解細胞感知與適應氧氣變化機制_3英美學者共同榮獲生理醫學獎_-_社團法人國家生技醫療產業策進會.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\【2019諾貝爾獎】破解細胞感知與適應氧氣變化機制_3英美學者共同榮獲生理醫學獎_-_社團法人國家生技醫療產業策進會.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/中國《藥品管理法》審議通過，mah制度全面落實，gmp、gsp認證取消_-_社團法人國家生技醫療產業策進會.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\中國《藥品管理法》審議通過，mah制度全面落實，gmp、gsp認證取消_-_社團法人國家生技醫療產業策進會.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/中國國務院推動抗癌藥加快降價_加快境外新藥上市審批.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\中國國務院推動抗癌藥加快降價_加快境外新藥上市審批.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/中國科技部公告2018創新醫療器械產品目錄_將計畫性激勵創新醫材推廣與資金支持_-_社團法人國家生技醫療產業策進會.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\中國科技部公告2018創新醫療器械產品目錄_將計畫性激勵創新醫材推廣與資金支持_-_社團法人國家生技醫療產業策進會.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/中國醫療市場前景可期.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\中國醫療市場前景可期.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/亞洲生技大會_迎三個第一___生技醫藥___產業___經濟日報.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\亞洲生技大會_迎三個第一___生技醫藥___產業___經濟日報.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/個人會員入會申請書.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\個人會員入會申請書.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/健保總額預算完成協商_薛瑞元.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\健保總額預算完成協商_薛瑞元.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/健保部分負擔新制延後上路.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\健保部分負擔新制延後上路.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/健保部分負擔新制正式預告_薛瑞元.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\健保部分負擔新制正式預告_薛瑞元.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/全球疫情發酵_資誠：數位與遠距醫療受關注.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\全球疫情發酵_資誠：數位與遠距醫療受關注.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/再生醫療雙法三讀_.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\再生醫療雙法三讀_.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/創投掛牌首例.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\創投掛牌首例.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/受疫情與供應鏈衝擊.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\受疫情與供應鏈衝擊.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/台北生技園區正式落成啟用_.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\台北生技園區正式落成啟用_.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/國台辦今發布31項惠台措施_推大陸同等待遇____即時___經濟日報_6.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\國台辦今發布31項惠台措施_推大陸同等待遇____即時___經濟日報_6.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/國藥疫苗獲批_中國擬串起全球疫苗產業鏈____________________2021.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\國藥疫苗獲批_中國擬串起全球疫苗產業鏈____________________2021.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/國衛院、台中榮總研究證實.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\國衛院、台中榮總研究證實.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/團體會員入會申請書.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\團體會員入會申請書.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/大陸醫療器械.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\大陸醫療器械.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/大陸883項商品明年降稅_部分抗癌藥原料零關稅.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\大陸883項商品明年降稅_部分抗癌藥原料零關稅.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/技新創公司.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\技新創公司.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/技新條例2022年上路_財政部將提供租稅獎勵.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\技新條例2022年上路_財政部將提供租稅獎勵.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/提升癌症投藥效率_次世代基因定序將納健保.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\提升癌症投藥效率_次世代基因定序將納健保.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/攻疫苗醫材物流_.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\攻疫苗醫材物流_.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/新冠疫苗副作用補償.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\新冠疫苗副作用補償.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/新國科會掛牌_吳政忠掌舵.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\新國科會掛牌_吳政忠掌舵.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/新版⽣技條例_優惠範圍擴⼤.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\新版⽣技條例_優惠範圍擴⼤.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/新版⽣技研發投抵_⾨檻不調⾼.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\新版⽣技研發投抵_⾨檻不調⾼.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/明年健保費可望不漲_安全準備金仍有1個月.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\明年健保費可望不漲_安全準備金仍有1個月.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/曾惠瑾.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\曾惠瑾.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/楊泮池.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\楊泮池.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/歐盟醫材新法_業者苦水滿腹.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\歐盟醫材新法_業者苦水滿腹.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/為「疫情結束」邁出⼀⼤步.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\為「疫情結束」邁出⼀⼤步.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/生技條例有望再延10年.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\生技條例有望再延10年.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/生物產業協會籲市場需資金流動.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\生物產業協會籲市場需資金流動.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/生醫業績排名_三領域聚光.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\生醫業績排名_三領域聚光.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業觀點.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業觀點.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息中國健康產業2019.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息中國健康產業2019.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息-搶攻寵物商機.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息-搶攻寵物商機.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息-生技月本週展開.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息-生技月本週展開.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_⽣策會射三箭_加速產品商轉.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_⽣策會射三箭_加速產品商轉.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_⾷藥署推醫療器材gdp.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_⾷藥署推醫療器材gdp.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_中國臨床試驗默許制上路9個.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_中國臨床試驗默許制上路9個.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_中國藥監局.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_中國藥監局.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_健保財務隱憂_陳時中.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_健保財務隱憂_陳時中.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_台廠醫衛產業南向新契機_資誠.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_台廠醫衛產業南向新契機_資誠.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_台灣下個希望.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_台灣下個希望.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_台灣將建ai醫療影像標註資料庫.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_台灣將建ai醫療影像標註資料庫.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_政院拍板40億設防疫中心.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_政院拍板40億設防疫中心.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_新創醫材申請耗時_政府與業者之間缺乏溝通窗.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_新創醫材申請耗時_政府與業者之間缺乏溝通窗.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_科技部挺醫療影像ai加速發展_啟動.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_科技部挺醫療影像ai加速發展_啟動.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_衛福部資料庫使.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_衛福部資料庫使.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_超級細菌.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_超級細菌.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_醫療創新是美陸科技競爭下.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_醫療創新是美陸科技競爭下.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_5校籌組北區最大育成聯盟.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_5校籌組北區最大育成聯盟.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_6.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_6.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息_google跨.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息_google跨.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__⼦公司海外掛牌_⾦管會祭3措施.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__⼦公司海外掛牌_⾦管會祭3措施.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__⽣策會將設電⼦_⽣醫平台.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__⽣策會將設電⼦_⽣醫平台.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__中研院院.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__中研院院.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__亞健康照護與.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__亞健康照護與.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__佳世達布局東協醫療市場_凱圖設泰國分公司.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__佳世達布局東協醫療市場_凱圖設泰國分公司.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__健保醫療.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__健保醫療.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__兩岸三地.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__兩岸三地.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__北醫細胞治療專案審核通過_可.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__北醫細胞治療專案審核通過_可.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__台灣之光.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__台灣之光.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__國衛院找到肺癌轉移主因_治療.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__國衛院找到肺癌轉移主因_治療.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__基因檢測擬年底納管_衛福部.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__基因檢測擬年底納管_衛福部.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__楊泮池.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__楊泮池.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__浩⿍案檢⽅再提上訴！.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__浩⿍案檢⽅再提上訴！.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__港交所上市新規發.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__港交所上市新規發.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__特管辦法助.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__特管辦法助.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__產業聚焦.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__產業聚焦.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__產業觀點.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__產業觀點.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__疫情威脅全球經濟前景_.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__疫情威脅全球經濟前景_.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__美專家指出中國主導全球藥品市場威脅國家安全__2019.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__美專家指出中國主導全球藥品市場威脅國家安全__2019.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__美患者糞菌植.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__美患者糞菌植.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__翁啟惠領軍.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__翁啟惠領軍.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__聯亞藥撤興櫃.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__聯亞藥撤興櫃.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__衛福部研究.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__衛福部研究.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__設2億研究基.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__設2億研究基.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__過量使.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__過量使.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__醫療科技展11月29日上秀_全球神醫雲集.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__醫療科技展11月29日上秀_全球神醫雲集.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__醫療輸出新南向_衛福部籌設公司_.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__醫療輸出新南向_衛福部籌設公司_.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__長照扣除額三讀通過_纳居家照護每.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__長照扣除額三讀通過_纳居家照護每.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__btc會議4.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__btc會議4.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__facebook進軍數位醫療_推出預防疾病.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__facebook進軍數位醫療_推出預防疾病.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息__h7n9禽流感病毒持續突變.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息__h7n9禽流感病毒持續突變.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業訊息____台灣技術.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業訊息____台灣技術.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/產業評析__專家觀點.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\產業評析__專家觀點.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/疫情加速⽣醫產業發展.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\疫情加速⽣醫產業發展.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/病歷可望帶著走.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\病歷可望帶著走.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/百億碳黑產業新商機！突破性負碳系統助農業廢棄物攻入碳黑生產鏈.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\百億碳黑產業新商機！突破性負碳系統助農業廢棄物攻入碳黑生產鏈.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/科學家找到癌細胞_偽裝_機制，有望帶來新型免疫療法_-_社團法人國家生技醫療產業策進會.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\科學家找到癌細胞_偽裝_機制，有望帶來新型免疫療法_-_社團法人國家生技醫療產業策進會.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/科技部推農業科技_帶動業界投資近8千萬.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\科技部推農業科技_帶動業界投資近8千萬.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/科技.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\科技.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/第3劑疫苗成效如何.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\第3劑疫苗成效如何.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/虛擬健保卡_擴大試辦.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\虛擬健保卡_擴大試辦.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/資誠.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\資誠.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/路透：中國悄悄設新採購指引.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\路透：中國悄悄設新採購指引.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/醫療器材品質管理申請平台111年正式啟.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\醫療器材品質管理申請平台111年正式啟.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/醫療器材專案辦公室成立.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\醫療器材專案辦公室成立.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/醫療器材管理法-6大重點整理.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\醫療器材管理法-6大重點整理.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/醫療科技展登場.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\醫療科技展登場.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/醫預法將上路.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\醫預法將上路.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/陸打鎖藥戰_台恐爆新藥缺口荒______________________________2021.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\陸打鎖藥戰_台恐爆新藥缺口荒______________________________2021.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/雃博董座李永川當選醫材公會理事長提3策略助攻國際化.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\雃博董座李永川當選醫材公會理事長提3策略助攻國際化.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/01.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\01.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/01_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\01_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/02_8.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\02_8.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/02_8_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\02_8_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/02_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\02_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/03.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\03.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/03_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\03_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/04_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\04_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/04_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\04_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/05_8.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\05_8.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/05_8_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\05_8_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/05_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\05_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/06_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\06_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/06_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\06_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/07_2.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\07_2.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/07_2_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\07_2_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/07_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\07_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/082801_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\082801_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/08_8.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\08_8.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/08_8_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\08_8_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/08_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\08_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/09_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\09_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/11_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\11_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/128991_2_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\128991_2_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/128993.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\128993.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/128993_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\128993_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/128995_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\128995_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/128995_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\128995_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/129001.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\129001.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/129001_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\129001_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/129193_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\129193_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/13_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\13_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/14_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\14_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/152809_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\152809_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/152811_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\152811_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/152813_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\152813_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/152815_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\152815_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/152816_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\152816_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/16222.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\16222.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/16222_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\16222_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/16_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\16_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/17_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\17_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/18_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\18_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018年全球前10⼤醫療器材公司.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018年全球前10⼤醫療器材公司.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/20180425轉發-經濟部國際貿易局-貿雙一字第1070450462號_6.pdf
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\20180425轉發-經濟部國際貿易局-貿雙一字第1070450462號_6.pdf
+Content Type: application/pdf
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/20180615_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\20180615_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061901_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061901_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061901_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061901_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061902_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061902_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061902_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061902_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061903_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061903_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061903_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061903_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061904_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061904_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061904_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061904_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061905_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061905_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061905_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061905_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061906_1.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061906_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018061906_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018061906_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018071202_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018071202_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080901.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080901.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080901_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080901_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080902.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080902.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080902_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080902_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080903.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080903.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2018080903_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2018080903_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2021台灣國際醫療暨健康照護展7月開展.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2021台灣國際醫療暨健康照護展7月開展.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2021醫療支出可望成長.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2021醫療支出可望成長.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/2021陸醫療服務_交易逾千億.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\2021陸醫療服務_交易逾千億.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1015998179.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1015998179.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1038944569.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1038944569.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1115018367.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1115018367.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1167816728.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1167816728.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1909274487.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1909274487.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1943834050.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1943834050.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/1959573408.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\1959573408.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/305292965.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\305292965.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/background-images/607312048.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\background-images\607312048.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/belx_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\belx_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/cbest_1_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\cbest_1_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/eby-logo_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\eby-logo_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/editor/06.jpg?1529564762
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\editor\06.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/editor/richphlogo.png?1529908529
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\editor\richphlogo.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/editor/tmtacalogo.png?1529908627
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\editor\tmtacalogo.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/ibmi_1_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\ibmi_1_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/kpmg.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\kpmg.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/logo_1_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\logo_1_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/logo_2_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\logo_2_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/logo_4_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\logo_4_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/mmexport1560134232593.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\mmexport1560134232593.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/mmexport1560134232593_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\mmexport1560134232593_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/olympus_31億美元出售顯微鏡事業.docx
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\olympus_31億美元出售顯微鏡事業.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/04.jpg?1529564631
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\04.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/05_1.jpg?1529564702
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\05_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/10_1.jpg?250
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\10_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/14_1.jpg?250
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\14_1.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/152810.jpg?1570932609
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\152810.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/152812.jpg?1570932474
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\152812.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/152814.jpg?1570932335
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\152814.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/152816.jpg?1570932063
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\152816.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/2018071201.jpg?1531462808
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\2018071201.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/published/dcblogo_1.png?1529920364
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\published\dcblogo_1.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/qr-code_1_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\qr-code_1_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/sbc-hp-inspection-expert-logo-orig_1_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\sbc-hp-inspection-expert-logo-orig_1_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/tbia_1_orig.png
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\tbia_1_orig.png
+Content Type: image/png
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105820.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105820.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105820_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105820_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105831.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105831.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105831_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105831_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105837.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105837.jpg
+Content Type: image/jpeg
+
+Uri: https://csbica.weebly.com/uploads/6/4/7/4/64742105/wechat-20190610105837_orig.jpg
+File Name: D:\csbica\csbica.weebly.com\uploads\6\4\7\4\64742105\wechat-20190610105837_orig.jpg
+Content Type: image/jpeg
+
+Uri: https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js
+File Name: D:\csbica\csbica.weebly.com\r\web\social-plugin\js\thirdparty\loader.min-1.js
+Content Type: application/javascript
+
+Uri: https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js?1530004403
+File Name: D:\csbica\csbica.weebly.com\r\web\social-plugin\js\thirdparty\loader.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Anton|Architects+Daughter|Cedarville+Cursive|Cherry+Cream+Soda|Chewy|Condiment|Crafty+Girls|Dancing+Script|Erica+One|Exo+2|Faster+One|Gloria+Hallelujah|IM+Fell+DW+Pica+SC|Indie+Flower|Josefin+Sans|Lato|Loved+by+the+King|Luckiest+Guy|Monofett|Montserrat|News+Cycle|Open+Sans|Oswald|Over+the+Rainbow|Oxygen|Patrick+Hand+SC|Paytone+One|Permanent+Marker|Playfair+Display|Questrial|Quicksand|Raleway|Reenie+Beanie|Roboto|Rock+Salt|Shadows+Into+Light|Syncopate:700|Titillium+Web|Yanone+Kaffeesatz|Zeyada
+File Name: D:\csbica\csbica.weebly.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm3Kz-Co.ttf
+File Name: D:\csbica\csbica.weebly.com\s\anton\v27\1Ptgg87LROyAm3Kz-Co.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v20/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+File Name: D:\csbica\csbica.weebly.com\s\architectsdaughter\v20\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cedarvillecursive/v18/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrp1.ttf
+File Name: D:\csbica\csbica.weebly.com\s\cedarvillecursive\v18\yYL00g_a2veiudhUmxjo5VKkoqA-B_nuIrp1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9o.ttf
+File Name: D:\csbica\csbica.weebly.com\s\cherrycreamsoda\v21\UMBIrOxBrW6w2FFyi9paG0fdVdRciQd9A9o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn52Kjc.ttf
+File Name: D:\csbica\csbica.weebly.com\s\chewy\v18\uK_94ruUb-k-wn52Kjc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6irIP8.ttf
+File Name: D:\csbica\csbica.weebly.com\s\condiment\v26\pONk1hggFNmwvXALyH6irIP8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveRhf_.ttf
+File Name: D:\csbica\csbica.weebly.com\s\craftygirls\v16\va9B4kXI39VaDdlPJo8N_NveRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: D:\csbica\csbica.weebly.com\s\dancingscript\v29\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGDFXEXI.ttf
+File Name: D:\csbica\csbica.weebly.com\s\ericaone\v29\WBLnrEXccV9VGrOKmGDFXEXI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v26/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsOdC6.ttf
+File Name: D:\csbica\csbica.weebly.com\s\exo2\v26\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fasterone/v20/H4ciBXCHmdfClFb-vWhf-LyYgg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\fasterone\v20\H4ciBXCHmdfClFb-vWhf-LyYgg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/gloriahallelujah/v24/LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zY.ttf
+File Name: D:\csbica\csbica.weebly.com\s\gloriahallelujah\v24\LYjYdHv3kUk9BMV96EIswT9DIbW-MIS11zY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKO.ttf
+File Name: D:\csbica\csbica.weebly.com\s\imfelldwpicasc\v21\0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm_xKO.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/indieflower/v24/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+File Name: D:\csbica\csbica.weebly.com\s\indieflower\v24\m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v34/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\josefinsans\v34\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\csbica\csbica.weebly.com\s\lato\v25\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3U.ttf
+File Name: D:\csbica\csbica.weebly.com\s\lovedbytheking\v24\Gw6gwdP76VDVJNXerebZxUMeRXUF2MiKn3U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/luckiestguy/v25/_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf
+File Name: D:\csbica\csbica.weebly.com\s\luckiestguy\v25\_gP_1RrxsjcxVyin9l9n_j2hTd5z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW73Vsxg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\monofett\v24\mFTyWbofw6zc9NtnW73Vsxg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\csbica\csbica.weebly.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/newscycle/v26/CSR64z1Qlv-GDxkbKVQ_fOAKSA.ttf
+File Name: D:\csbica\csbica.weebly.com\s\newscycle\v26\CSR64z1Qlv-GDxkbKVQ_fOAKSA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\csbica\csbica.weebly.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: D:\csbica\csbica.weebly.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8A.ttf
+File Name: D:\csbica\csbica.weebly.com\s\overtherainbow\v23\11haGoXG1k_HKhMLUWz7Mc7vvW5ulvSs8A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4LcnbuKjk0j.ttf
+File Name: D:\csbica\csbica.weebly.com\s\oxygen\v16\2sDfZG1Wl4LcnbuKjk0j.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873ljiK-.ttf
+File Name: D:\csbica\csbica.weebly.com\s\patrickhandsc\v17\0nkwC9f7MfsBiWcLtY65AWDK873ljiK-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2ChTtgP4.ttf
+File Name: D:\csbica\csbica.weebly.com\s\paytoneone\v25\0nksC9P7MfYHj2oFtYm2ChTtgP4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Ceg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\permanentmarker\v16\Fh4uPib9Iyv2ucM6pGQMWimMp004La2Ceg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: D:\csbica\csbica.weebly.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/questrial/v19/QdVUSTchPBm7nuUeVf70viFg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\questrial\v19\QdVUSTchPBm7nuUeVf70viFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: D:\csbica\csbica.weebly.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: D:\csbica\csbica.weebly.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/reeniebeanie/v22/z7NSdR76eDkaJKZJFkkjuvWxXPq1rg.ttf
+File Name: D:\csbica\csbica.weebly.com\s\reeniebeanie\v22\z7NSdR76eDkaJKZJFkkjuvWxXPq1rg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: D:\csbica\csbica.weebly.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZrt0M_.ttf
+File Name: D:\csbica\csbica.weebly.com\s\rocksalt\v24\MwQ0bhv11fWD6QsAVOZrt0M_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shadowsintolight/v22/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+File Name: D:\csbica\csbica.weebly.com\s\shadowsintolight\v22\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syncopate/v24/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf
+File Name: D:\csbica\csbica.weebly.com\s\syncopate\v24\pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v19/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: D:\csbica\csbica.weebly.com\s\titilliumweb\v19\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yanonekaffeesatz/v34/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZd2GP.ttf
+File Name: D:\csbica\csbica.weebly.com\s\yanonekaffeesatz\v34\3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZd2GP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zeyada/v22/11hAGpPTxVPUbgZzM2yp.ttf
+File Name: D:\csbica\csbica.weebly.com\s\zeyada\v22\11hAGpPTxVPUbgZzM2yp.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-121258172-1
+File Name: D:\csbica\csbica.weebly.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.weebly.com/weebly/images/file_icons/pdf.png
+File Name: D:\csbica\csbica.weebly.com\weebly\images\file_icons\pdf.png
+Content Type: image/png
+
+Uri: https://www.weebly.com/weebly/images/file_icons/rtf.png
+File Name: D:\csbica\csbica.weebly.com\weebly\images\file_icons\rtf.png
+Content Type: image/png
+
