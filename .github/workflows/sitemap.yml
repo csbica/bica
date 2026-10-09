@@ -15,7 +15,7 @@ jobs:
       - name: Generate Sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: https://csbica.github.io/bica # 替換成你的網站網址
+          base-url-path: https://csbica.org # 替換成你的網站網址
 
       - name: Commit and Push Sitemap
         run: |
